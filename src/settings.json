@@ -1,0 +1,14 @@
+{
+    "SECRET_KEY": "9d865b5e6bdb50e8569f371af354c17e92719333f53b67b6b2c3af75596fe2f5",
+    "DEBUG": 1,
+    "DB_USER": "frederico",
+    "DB_PASSWORD": "",
+    "DB_ENGINE": "django.db.backends.postgresql",
+    "DB_NAME": "fsales.db",
+    "DB_HOST": "necripedophile.styx.arpa",
+    "LANGUAGE_CODE": "en-us",
+    "TIME_ZONE": "UTC",
+    "USE_I18N": 1,
+    "USE_TZ": 1,
+    "STATIC_URL": "static/"
+}

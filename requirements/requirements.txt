@@ -1,0 +1,5 @@
+django
+django-bootstrap-v5
+bleach
+pillow
+psycopg2-binary
